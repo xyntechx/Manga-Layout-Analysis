@@ -1,5 +1,2 @@
 # Manga Layout Analysis
-This repository holds the code for my work in the 2021 Nanyang Research Programme (SCSE01)
-
-## TODO
-- [ ] Fix face-text association (slightly wonky right now)
+This research project for the 2021 Nanyang Research Programme (NRP) by Nanyang Technological University aims to segment character faces and speech bubbles of manga pages, associating each character face to the speech bubble of said character based on the distance between the two classes. In doing so, the project hopes to lay the foundation for easy translation and adaptation of manga into movie scripts, novels, and other literature pieces.
