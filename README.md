@@ -13,6 +13,6 @@ Overall, this research project aims to lay the foundation for easy translation a
 ## 📚 Acknowledgements
 Abdulla, W. (2017). Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow. GitHub. [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN).
 
-Brownlee, J. (2020). How to Train an Object Detection Model with Keras. Machine Learning Mastery. [https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/).
-
 Aizawa, K., Fujimoto, A., Otsubo, A., Ogawa, T., Matsui, Y., Tsubota, K., & Ikuta, H. (2020). Building a Manga Dataset "Manga109" with Annotations for Multimedia Applications. IEEE MultiMedia, 27(2), 8–18.
+
+Brownlee, J. (2020). How to Train an Object Detection Model with Keras. Machine Learning Mastery. [https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/).
