@@ -16,3 +16,5 @@ Abdulla, W. (2017). Mask R-CNN for object detection and instance segmentation on
 Aizawa, K., Fujimoto, A., Otsubo, A., Ogawa, T., Matsui, Y., Tsubota, K., & Ikuta, H. (2020). Building a Manga Dataset "Manga109" with Annotations for Multimedia Applications. IEEE MultiMedia, 27(2), 8–18.
 
 Brownlee, J. (2020). How to Train an Object Detection Model with Keras. Machine Learning Mastery. [https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
+
+Clanuwat, T., Bober-Irizar, M., Kitamoto, A., Lamb, A., Yamamoto, K., & Ha, D. (2018). Deep Learning for Classical Japanese Literature. [https://arxiv.org/abs/1812.01718](https://arxiv.org/abs/1812.01718)
