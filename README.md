@@ -18,3 +18,5 @@ Aizawa, K., Fujimoto, A., Otsubo, A., Ogawa, T., Matsui, Y., Tsubota, K., & Ikut
 Brownlee, J. (2020). How to Train an Object Detection Model with Keras. Machine Learning Mastery. [https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
 
 Clanuwat, T., Bober-Irizar, M., Kitamoto, A., Lamb, A., Yamamoto, K., & Ha, D. (2018). Deep Learning for Classical Japanese Literature. [https://arxiv.org/abs/1812.01718](https://arxiv.org/abs/1812.01718)
+
+Rosebrock, A. (2021, April 17). OCR with Keras, TensorFlow, and Deep Learning. PyImageSearch. [https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/)
