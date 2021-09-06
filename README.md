@@ -3,9 +3,11 @@ This repository holds my work for the **Document Layout Analysis via Machine Lea
 
 ## ⚙️ Mechanism
 As of now, `Manga Layout Analysis.ipynb`:
-- performs Instance Segmentation on manga pages to identify frames (panels), faces, and text (speech bubbles)
-- associates faces to text
-- determines the order of text
+- performs Instance Segmentation on manga pages to identify frames (panels), faces, and text (speech bubbles),
+- associates faces to text, and
+- determines the order of text.
+
+`Manga OCR.ipynb` builds a Japanese Hiragana Optical Character Recognition model using the Kuzushiji-MNIST dataset.
 
 ## 🎯 Overarching Aim
 Overall, this research project aims to lay the foundation for easy translation and adaptation of manga into movie scripts, novels, and other literature pieces.
