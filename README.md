@@ -7,7 +7,7 @@ As of now, `Manga Layout Analysis.ipynb`:
 - associates faces to text, and
 - determines the order of text.
 
-`Manga OCR.ipynb` builds a Japanese Hiragana Optical Character Recognition model using the Kuzushiji-MNIST dataset.
+`Manga OCR.ipynb` builds a Japanese Hiragana and Kanji Optical Character Recognition model using the Kuzushiji-49 and Kuzushiji-Kanji datasets.
 
 ## 🎯 Overarching Aim
 Overall, this research project aims to lay the foundation for easy translation and adaptation of manga into movie scripts, novels, and other literature pieces.
