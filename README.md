@@ -1,5 +1,5 @@
 # Manga Layout Analysis
-This repository holds my work for the **Document Layout Analysis via Machine Learning (SCSE01)** research project under the 2021 Nanyang Research Programme (NRP) by Nanyang Technological University.
+This repository holds my work for the **Manga Layout Analysis via Deep Learning (SCSE01)** research project under the 2021 Nanyang Research Programme (NRP) by Nanyang Technological University.
 
 ## ⚙️ Mechanism
 As of now, `Manga Layout Analysis.ipynb`:
