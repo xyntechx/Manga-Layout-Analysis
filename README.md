@@ -2,12 +2,12 @@
 This repository holds my work for the **Manga Layout Analysis via Deep Learning (SCSE01)** research project under the 2021 Nanyang Research Programme (NRP) by Nanyang Technological University.
 
 ## ⚙️ Mechanism
-### IR[Mask R-CNN].ipynb
+### IS[Mask R-CNN].ipynb
 - Performs Instance Segmentation on manga pages to identify frames (panels), faces, and text (speech bubbles) using the Manga109 dataset
 - Associates faces to text
 - Determines the order of text
 
-### IR[PointRend].ipynb
+### IS[PointRend].ipynb
 Performs Instance Segmentation on manga pages to identify frames (panels) and text (speech bubbles) using a custom dataset consisting of manually annotated Manga109 images using Labelme
 
 Note: Faces are not included as they are too time-consuming to annotate manually
