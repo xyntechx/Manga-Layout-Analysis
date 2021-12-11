@@ -17,4 +17,4 @@ Builds a Japanese hiragana and kanji optical character recogniser using the Kuzu
 
 ## 🎯 Overall Aim
 - Innovate an end-to-end integrated Manga Layout Analysis system for easy adaptation of manga into anime, movies, novels, and other media
-- Compare the performance (accuracy and precision) as well as training and execution time of different deep learning models for instance segmentation and optical character recognition
+- Compare the performance (accuracy and precision) as well as training and execution times of different deep learning models for instance segmentation and optical character recognition
