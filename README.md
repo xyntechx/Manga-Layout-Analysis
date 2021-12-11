@@ -8,7 +8,7 @@ This repository holds my work for the **Manga Layout Analysis via Deep Learning 
 - Determines the order of text
 
 ### IS[PointRend].ipynb
-Performs instance segmentation on manga pages to identify frames (panels) and text (speech bubbles) using a custom dataset consisting of manually annotated Manga109 images using Labelme
+Performs instance segmentation on manga to identify frames (panels) and text (speech bubbles) using a custom dataset consisting of manually annotated Manga109 images using Labelme
 
 Note: Faces are not included as they are too time-consuming to annotate manually
 
