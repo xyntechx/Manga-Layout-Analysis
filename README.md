@@ -59,7 +59,7 @@ Source code for training of IS and M-OCR models.
 -   `IS[PointRend]-2 (manual).ipynb` => `IS[PointRend]-2 (manual)`
 
 > Optical Character Recognition (M-OCR)
-> `M-OCR-ResNet-50or101.ipynb` => `M-OCR-ResNet-50.h5` and `M-OCR-ResNet-101.h5`
+`M-OCR-ResNet-50or101.ipynb` => `M-OCR-ResNet-50.h5` and `M-OCR-ResNet-101.h5`
 
 ### Validation
 
