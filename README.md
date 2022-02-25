@@ -52,14 +52,10 @@ Note: `.ipynb` files were run on Google Colaboratory using a GPU.
 
 Source code for training of IS and M-OCR models.
 
-> Instance Segmentation (IS)
-
 -   `IS[Mask R-CNN]-3or2 (Manga109).ipynb` => `IS[Mask R-CNN]-3 (Manga109).h5` and `IS[Mask R-CNN]-2 (Manga109).h5`
 -   `IS[Mask R-CNN]-2 (manual).ipynb` => `IS[Mask R-CNN]-2 (manual).h5`
 -   `IS[PointRend]-2 (manual).ipynb` => `IS[PointRend]-2 (manual)`
-
-> Optical Character Recognition (M-OCR)
-`M-OCR-ResNet-50or101.ipynb` => `M-OCR-ResNet-50.h5` and `M-OCR-ResNet-101.h5`
+-   `M-OCR-ResNet-50or101.ipynb` => `M-OCR-ResNet-50.h5` and `M-OCR-ResNet-101.h5`
 
 ### Validation
 
