@@ -63,7 +63,7 @@ Source code for training of IS and M-OCR models.
 
 ### IS[Mask R-CNN]-3 (Manga109)\_FTA_TOD.ipynb
 
-Source code for testing IS[Mask R-CNN]-3 (Manga109), FTA, and TOD using images from `Validation`
+Source code for testing IS[Mask R-CNN]-3 (Manga109), FTA, and TOD using images from `Validation`.
 
 ### main.ipynb
 
