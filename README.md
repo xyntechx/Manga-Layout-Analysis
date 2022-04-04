@@ -14,13 +14,10 @@ Nyx Audrey Angelo Iskandar
 
 Manga Layout Analysis via Deep Learning
 
-### Nanyang Research Project (NRP) Code
-
-SCSE01
-
-### Singapore Science & Engineering Fair (SSEF) Code
-
-RO003
+### Awards
+- Silver @ Singapore Science & Engineering Fair (SSEF)
+- TBC @ International Conference of Young Scientists (ICYS)
+- TBC @ Nanyang Research Programme
 
 ### Abstract
 
