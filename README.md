@@ -11,8 +11,8 @@ Nyx Audrey Angelo Iskandar
 Manga Layout Analysis via Deep Learning
 
 ### Awards
-- Silver & 1st for Poster Presentation @ International Conference of Young Scientists (ICYS)
-- Silver @ Singapore Science & Engineering Fair (SSEF)
+- Silver (Top 10%) & 1st for Poster Presentation @ International Conference of Young Scientists (ICYS)
+- Silver (Top 10%) @ Singapore Science & Engineering Fair (SSEF)
 - TBC @ Nanyang Research Programme
 
 ### Abstract
