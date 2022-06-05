@@ -5,7 +5,7 @@ Manga Layout Analysis is an end-to-end system integration of deep learning insta
 Written below are the details of the research project.
 
 ### Name of Researcher
-Nyx Audrey Angelo Iskandar
+[Nyx Audrey Angelo Iskandar](https://github.com/xyntechx/)
 
 ### Title
 Manga Layout Analysis via Deep Learning
