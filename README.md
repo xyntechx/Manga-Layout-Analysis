@@ -13,6 +13,8 @@ Manga Layout Analysis via Deep Learning
 ### Awards
 - Silver (Top 10%) & 1st for Poster Presentation @ International Conference of Young Scientists (ICYS)
 - Silver (Top 10%) @ Singapore Science & Engineering Fair (SSEF)
+- TBC @ National STEM Talent Search (NSTS)
+- TBC @ A*STAR IRC-SET
 - TBC @ Nanyang Research Programme
 
 ### Abstract
