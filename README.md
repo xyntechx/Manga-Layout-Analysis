@@ -11,11 +11,11 @@ Written below are the details of the research project.
 Manga Layout Analysis via Deep Learning
 
 ### Awards
+- Gold @ Nanyang Research Programme
 - Silver (Top 10%) & 1st for Poster Presentation @ International Conference of Young Scientists (ICYS)
 - Silver (Top 10%) @ Singapore Science & Engineering Fair (SSEF)
 - TBC @ National STEM Talent Search (NSTS)
 - TBC @ A*STAR IRC-SET
-- TBC @ Nanyang Research Programme
 
 ### Abstract
 Manga Layout Analysis is an end-to-end system integration of deep learning instance segmentation and optical character recognition tools as a complete solution for the adaptation of manga into other media. An innovative unified approach, this system combines said tools into one process to contribute to document layout analysis concerning manga on which only limited research has been conducted, and aid Japanese companies adapt manga into anime and other media. Hence, this integrated system consists of deep learning instance segmentation models trained with the Manga109 dataset, and Japanese hiragana and kanji optical character recognisers trained with Kuzushiji-MNIST datasets.
