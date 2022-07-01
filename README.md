@@ -1,5 +1,5 @@
 # Manga Layout Analysis via Deep Learning
-Manga Layout Analysis is an end-to-end system integration of deep learning instance segmentation and optical character recognition tools as a complete solution for the adaptation of manga into other media.
+Manga Layout Analysis is an end-to-end system integration of instance segmentation models, novel algorithms, and optical character recognisers as a complete solution for the adaptation of manga into other media.
 
 ## 🎉 About
 Written below are the details of the research project.
@@ -18,9 +18,7 @@ Manga Layout Analysis via Deep Learning
 - TBC @ A*STAR IRC-SET
 
 ### Abstract
-Manga Layout Analysis is an end-to-end system integration of deep learning instance segmentation and optical character recognition tools as a complete solution for the adaptation of manga into other media. An innovative unified approach, this system combines said tools into one process to contribute to document layout analysis concerning manga on which only limited research has been conducted, and aid Japanese companies adapt manga into anime and other media. Hence, this integrated system consists of deep learning instance segmentation models trained with the Manga109 dataset, and Japanese hiragana and kanji optical character recognisers trained with Kuzushiji-MNIST datasets.
-
-Overall, the instance segmentation models for text and frames built using Mask R-CNN and PointRend achieved mAP values of 0.93 and 0.95 respectively (IoU=0.5). For text, frames, and faces, the Mask R-CNN model achieved an mAP value of 0.90 (IoU=0.5); no PointRend model was trained as time constraints were faced due to the need for manual annotations to create a compatible dataset. The ResNet-50 and ResNet-101 Japanese hiragana and kanji optical character recognisers achieved high F1 scores of 0.89 and 0.90 respectively, similar to those of the Tesseract English and state-of-the-art Japanese optical character recognisers.
+Manga Layout Analysis is an end-to-end system integration of instance segmentation (IS) models, novel algorithms, and optical character recognisers (M-OCRs) as a complete solution for the adaptation of manga into other media. An innovative and unified approach, this system combines the aforementioned deep learning tools into one process to contribute to document layout analysis concerning manga on which only limited research has been conducted, and aid Japanese companies adapt manga into anime and other media. This integrated system hence consists of IS models trained with the Manga109 dataset, algorithms leveraging the results of the IS models to analyse and evaluate the structure and semantics of manga, and Japanese hiragana and kanji M-OCRs trained with Kuzushiji-MNIST datasets. The IS models for text and frames built using Mask R-CNN and PointRend achieved mAP values of 0.93 and 0.95 respectively (IoU=0.5); for text, frames, and faces, the Mask R-CNN model achieved an mAP value of 0.90 (IoU=0.5). The ResNet-50 and ResNet-101 M-OCRs achieved high F1 scores of 0.89 and 0.90 respectively.
 
 ## 🪜 Structure
 Listed below are the files and folders located in the root directory.
