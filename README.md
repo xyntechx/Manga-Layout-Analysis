@@ -12,7 +12,7 @@ Manga Layout Analysis via Deep Learning
 
 ### Awards
 - Gold @ Nanyang Research Programme 2021
-- Best Presenter Award at IRC-SET 2022
+- Best Presenter Award @ IRC-SET 2022
 - Silver & 1st for Poster Presentation @ International Conference of Young Scientists (ICYS) 2022
 - Silver @ Singapore Science & Engineering Fair (SSEF) 2022
 
