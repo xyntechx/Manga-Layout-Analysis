@@ -1,7 +1,7 @@
 # Manga Layout Analysis via Deep Learning
-_Copyright (c) 2021-2023 Nyx Audrey Angelo Iskandar_
+_Copyright 2021-2023 Nyx Audrey Angelo Iskandar_
 
-Manga Layout Analysis via Deep Learning is an end-to-end system integration of instance segmentation models, novel algorithms, and optical character recognisers as a complete solution for the adaptation of manga into other media.
+Manga Layout Analysis via Deep Learning is a deep learning automatic manga reading and analysis system.
 
 ## 🔗 Useful Links
 
