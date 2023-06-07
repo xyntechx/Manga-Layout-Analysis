@@ -9,6 +9,8 @@ Manga Layout Analysis via Deep Learning is a deep learning automatic manga readi
 
 🚀 [Frontend](https://github.com/teamxynlab/MLA)
 
+📑 [Research Paper](https://doi.org/10.1007/978-981-19-7222-5)
+
 ## 🎉 About
 Written below are the details of the research project.
 
